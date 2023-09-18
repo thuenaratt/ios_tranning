@@ -1,0 +1,25 @@
+{
+  "meta": {
+	"status": 200,
+	"title": "",
+	"message": "Successfuly"
+  },
+  "data": [
+	{
+	  "name": "Cat",
+	  "image": ""
+	},
+	{
+	  "name": "Cat",
+	  "image": ""
+	},
+	{
+	  "name": "Cat",
+	  "image": ""
+	},
+	{
+	  "name": "Cat",
+	  "image": ""
+	}
+  ]
+}
