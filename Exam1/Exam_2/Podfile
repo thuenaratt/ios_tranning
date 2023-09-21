@@ -1,0 +1,30 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '14.0'
+
+inhibit_all_warnings!
+post_install do |installer|
+ installer.pods_project.targets.each do |target|
+	target.build_configurations.each do |config|
+	 config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+	end
+ end
+end
+
+def shared_pods
+	use_frameworks!
+	
+	# Networking
+	#https://github.com/Moya/Moya
+	pod 'Moya', '~> 13.0' # Swift 5.x
+	
+end
+
+target 'Exam-Dev' do
+	shared_pods
+end
+
+target 'Exam-Pro' do
+  
+	shared_pods
+
+end

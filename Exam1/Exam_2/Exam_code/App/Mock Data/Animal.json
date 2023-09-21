@@ -1,0 +1,74 @@
+
+{
+  "meta": {
+	"status": 200,
+	"title": "",
+	"message": "Successfuly"
+  },
+  "data": [
+	{
+	  "name": "Dog",
+	  "image": "Dog"
+	},
+	{
+	  "name": "Cat",
+	  "image": "Cat"
+	},
+	{
+	  "name": "Shaun",
+	  "image": "Shaun"
+	},
+	{
+	  "name": "Anna",
+	  "image": "Anna"
+	},
+	{
+	  "name": "Timmy",
+	  "image": "Timmy"
+	},
+	{
+	  "name": "Bitzer",
+	  "image": "Bitzer"
+	},
+	{
+	  "name": "Elza",
+	  "image": "Elza"
+	},
+	{
+	  "name": "TinkerBell",
+	  "image": "TinkerBell"
+	},
+	{
+	  "name": "Dog",
+	  "image": "Dog"
+	},
+	{
+	  "name": "Cat",
+	  "image": "Cat"
+	},
+	{
+	  "name": "Shaun",
+	  "image": "Shaun"
+	},
+	{
+	  "name": "Anna",
+	  "image": "Anna"
+	},
+	{
+	  "name": "Timmy",
+	  "image": "Timmy"
+	},
+	{
+	  "name": "Bitzer",
+	  "image": "Bitzer"
+	},
+	{
+	  "name": "Elza",
+	  "image": "Elza"
+	},
+	{
+	  "name": "TinkerBell",
+	  "image": "TinkerBell"
+	}
+  ]
+}
